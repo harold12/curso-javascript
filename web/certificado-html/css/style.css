@@ -1,0 +1,25 @@
+/*no olvidar (id=#), (class=.)*/
+p{
+    color:orange;
+    font-size:120%;
+}
+h3, h4 , h5, h6{
+    color:green;
+    background-color: lighgray;
+}
+#intro{
+    color:black;
+    background-color:white;
+}
+.first{
+    font-size:200%;
+}
+/* este selector apunta a una clase y modifica el elemento del class element {propiedad, valor}*/
+.first del {
+    color: pink; 
+    background-color:gray;
+ }
+body{
+    color:skyblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
